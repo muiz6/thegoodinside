@@ -4,7 +4,7 @@ import Container from 'components/Container';
 
 export default function FooterSection() {
   return (
-    <chakra.section bgColor="black" color="white">
+    <chakra.section bgColor="black" color="white" px="5">
       <Container py="16">
         <SimpleGrid columns={{ md: 3 }}>
           <Box>
