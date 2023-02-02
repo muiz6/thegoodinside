@@ -17,7 +17,7 @@ export default function ContentSection() {
               ))
             }
           </SimpleGrid>
-          <Button type="button" w="150px" colorScheme="green" mx="auto" color="white" mt="5">Load More</Button>
+          <Button type="button" w="150px" colorScheme="green" mx="auto" color="white" mt="5" bgColor="green">Load More</Button>
         </Card>
       </Container>
     </chakra.section>

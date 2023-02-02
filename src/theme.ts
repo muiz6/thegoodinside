@@ -2,7 +2,7 @@ import { extendTheme } from '@chakra-ui/react';
 
 export default extendTheme({
   colors: {
-    primary: '#167efd',
+    primary: 'black',
     onPrimary: 'white',
     secondary: '#4fb848',
     onSecondary: 'white',
